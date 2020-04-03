@@ -1,7 +1,4 @@
-Cade Lueker 
-Spring 2020
+This is one of the first java projects that I have done. I want to share it to show my knowledge of JUnit testing and Javadoc formatting. It will also act as a benchmark of where I started in computer science. 
 
-This is one of the java projects for my EECS 132 (Intro to Object Oriented Programming) class.
-It was done with Dr Java which is why there is no main method. However, using the interactions 
-pane I was able to draw all of the shapes on the canvas.
+Cade
  
